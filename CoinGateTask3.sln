@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinGateTask3", "CoinGateTask3.csproj", "{BECBC1A8-BF35-4B98-8313-780D336BCB5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BECBC1A8-BF35-4B98-8313-780D336BCB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECBC1A8-BF35-4B98-8313-780D336BCB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECBC1A8-BF35-4B98-8313-780D336BCB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECBC1A8-BF35-4B98-8313-780D336BCB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {374EF816-5F81-43FB-ABB5-9A9C61F8ACD2}
+	EndGlobalSection
+EndGlobal
